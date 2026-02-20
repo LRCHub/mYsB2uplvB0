@@ -1,37 +1,37 @@
 # Ave Mujica – Crucifix X
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-あぁ 私を辱めた
-あなたのメロディは
-いまだ猛り狂うのか
-戦慄のカテドラル 抗う心臓
-焼けてゆく 後ろ髪のないフォルトゥーナ
-Still alive 命の歯車が
-So, still alive 回り出す
-振り切る己をゆく
-Still alive? ロゴスの誘いは
-So, still alive? まだ見えない
-汚れてく異教徒たちの涙
-(Face) so, we got to face this
-(Face) we got to face
-(Face) 繰り返す 疎外 虚勢 絶望
-鎮まらぬ魂 人は何故
-Still alive 誰かの歯車が
-So, still alive 狂い出す
-忌まわしい鐘楼が鳴る
-Still alive? '来るべき世界'は
-So, still alive? 求めている
-処刑台の終わりなき犠牲者
-Never die 歴史の血の河を
-I never die 掻い潜り
-彷徨える 我が十字架
-Still alive 命の歯車が
-So, still alive 回り出す
-振り切る己をゆく
-Still alive? ロゴスの誘いは
-So, still alive? まだ見えない
-汚れてく異教徒たちの涙
+```lrc
+[00:47.31] あぁ 私を辱めた
+[00:50.04] あなたのメロディは
+[00:57.92] いまだ猛り狂うのか
+[01:08.51] 戦慄のカテドラル 抗う心臓
+[01:17.87] 焼けてゆく 後ろ髪のないフォルトゥーナ
+[01:22.00] Still alive 命の歯車が
+[01:27.01] So, still alive 回り出す
+[01:36.45] 振り切る己をゆく
+[01:40.65] Still alive? ロゴスの誘いは
+[01:45.78] So, still alive? まだ見えない
+[02:01.10] 汚れてく異教徒たちの涙
+[02:03.32] (Face) so, we got to face this
+[02:05.64] (Face) we got to face
+[02:12.53] (Face) 繰り返す 疎外 虚勢 絶望
+[02:19.61] 鎮まらぬ魂 人は何故
+[02:24.40] Still alive 誰かの歯車が
+[02:29.34] So, still alive 狂い出す
+[02:38.74] 忌まわしい鐘楼が鳴る
+[02:42.97] Still alive? '来るべき世界'は
+[02:48.03] So, still alive? 求めている
+[03:35.58] 処刑台の終わりなき犠牲者
+[03:38.93] Never die 歴史の血の河を
+[03:43.89] I never die 掻い潜り
+[03:53.36] 彷徨える 我が十字架
+[03:57.64] Still alive 命の歯車が
+[04:02.67] So, still alive 回り出す
+[04:12.02] 振り切る己をゆく
+[04:16.26] Still alive? ロゴスの誘いは
+[04:21.20] So, still alive? まだ見えない
+[04:30.44] 汚れてく異教徒たちの涙
 月の下 顔のないマリア
 ```
